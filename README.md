@@ -204,7 +204,7 @@ This project is for educational and research purposes.
 
 ---
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 - [HuggingFace Transformers](https://huggingface.co/transformers/) for model fine-tuning
 - [ProsusAI/FinBERT](https://huggingface.co/ProsusAI/finbert) for the financial domain language model
